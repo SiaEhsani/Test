@@ -1,0 +1,8 @@
+a,b,c,d
+Core #0,Core#1,Core#2,Core#3
+L1-I(32KB),L1-I (32KB),L1-I (32KB),L1-I (32KB)
+L1-D (32KB),L1-D (32KB),L1-D (32KB),L1-D (32KB)
+L2 (256KB),L2 (256KB),L2 (256KB),L2 (256KB)
+L3 (8MB),,,
+tag-dir,,,
+dram-cntlr,,,

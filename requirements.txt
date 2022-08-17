@@ -1,0 +1,6 @@
+pandas
+dash
+numpy
+xarray
+pathlib
+dash_bootstrap_components
